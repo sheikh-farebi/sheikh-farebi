@@ -1,4 +1,5 @@
- <h1 align="center">Hi 👋, I'm Farebi</h1>
+![logo](500d05bcbc3c80383458ee245122acb8.gif) 
+<h1 align="center">Hi 👋, I'm Farebi</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtLZj6Xgs-6-ED3SyGDfiraEQX-EfmFN-F0A&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-farebi&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-farebi" /> </p>
